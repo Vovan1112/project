@@ -1,0 +1,39 @@
+body {
+    background: url(images/5047.jpg) no-repeat;
+    background-size: 100%;
+}
+
+.text {
+    font-size: 100px;
+    color: red;
+    padding-left: 800px;
+    padding-top:400px ;
+}
+
+.number {
+    font-size: 90px;
+    color: black;
+    padding-left: 800px;
+}
+
+p {
+    font-size: 15px;
+    padding-left:800px ;
+}
+
+.photo {
+   text-align: center;
+
+}
+
+.col {
+    text-align: center;
+}
+.title {
+    color: red;
+}
+
+footer {
+    padding-top:100px ;
+    text-align: center;
+}
